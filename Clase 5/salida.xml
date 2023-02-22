@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<datosMarte>
+    <listaOrganismos>
+        <organismo>
+            <codigo>0001</codigo>
+            <nombre>Muestra A</nombre>
+        </organismo>
+        <organismo>
+            <codigo>0002</codigo>
+            <nombre>Muestra B</nombre>
+        </organismo>
+        <organismo>
+            <codigo>0003</codigo>
+            <nombre>Muestra C</nombre>
+        </organismo>
+    </listaOrganismos>
+    <listadoMuestras>
+        <muestra>
+            <codigo>Muestra 1</codigo>
+            <descripcion>Muestra recolectada en la Superficie M-67</descripcion>
+            <filas>5</filas>
+            <columnas>5</columnas>
+            <listadoCeldasVivas>
+                <celdaViva>
+                    <fila>1</fila>
+                    <columna>3</columna>
+                    <codigoOrganismo>0002</codigoOrganismo>
+                </celdaViva>
+                <celdaViva>
+                    <fila>1</fila>
+                    <columna>4</columna>
+                    <codigoOrganismo>0003</codigoOrganismo>
+                </celdaViva>
+                <celdaViva>
+                    <fila>2</fila>
+                    <columna>3</columna>
+                    <codigoOrganismo>0002</codigoOrganismo>
+                </celdaViva>
+                <celdaViva>
+                    <fila>2</fila>
+                    <columna>5</columna>
+                    <codigoOrganismo>0003</codigoOrganismo>
+                </celdaViva>
+                <celdaViva>
+                    <fila>3</fila>
+                    <columna>3</columna>
+                    <codigoOrganismo>0002</codigoOrganismo>
+                </celdaViva>
+                <celdaViva>
+                    <fila>4</fila>
+                    <columna>1</columna>
+                    <codigoOrganismo>0001</codigoOrganismo>
+                </celdaViva>
+                <celdaViva>
+                    <fila>5</fila>
+                    <columna>2</columna>
+                    <codigoOrganismo>0001</codigoOrganismo>
+                </celdaViva>
+            </listadoCeldasVivas>
+        </muestra>
+        <muestra>
+            <codigo>Baby Let me down easy</codigo>
+            <descripcion>Muestra recolectada en la Superficie M-67</descripcion>
+            <filas>5</filas>
+            <columnas>5</columnas>
+            <listadoCeldasVivas>
+                <celdaViva>
+                    <fila>1</fila>
+                    <columna>3</columna>
+                    <codigoOrganismo>0002</codigoOrganismo>
+                </celdaViva>
+                <celdaViva>
+                    <fila>1</fila>
+                    <columna>4</columna>
+                    <codigoOrganismo>0003</codigoOrganismo>
+                </celdaViva>
+                <celdaViva>
+                    <fila>2</fila>
+                    <columna>3</columna>
+                    <codigoOrganismo>0002</codigoOrganismo>
+                </celdaViva>
+                <celdaViva>
+                    <fila>2</fila>
+                    <columna>5</columna>
+                    <codigoOrganismo>0003</codigoOrganismo>
+                </celdaViva>
+                <celdaViva>
+                    <fila>3</fila>
+                    <columna>3</columna>
+                    <codigoOrganismo>0002</codigoOrganismo>
+                </celdaViva>
+                <celdaViva>
+                    <fila>4</fila>
+                    <columna>1</columna>
+                    <codigoOrganismo>0001</codigoOrganismo>
+                </celdaViva>
+                <celdaViva>
+                    <fila>5</fila>
+                    <columna>2</columna>
+                    <codigoOrganismo>0001</codigoOrganismo>
+                </celdaViva>
+            </listadoCeldasVivas>
+        </muestra>
+    </listadoMuestras>
+</datosMarte>
